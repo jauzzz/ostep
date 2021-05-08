@@ -53,3 +53,4 @@ dkms.conf
 
 # Unkonwn
 .DS_Store
+.vscode/
